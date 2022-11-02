@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 body {
-  background: #e27442;
-}
+  background-image: url('../assets/todo.jpg');
+  }
 .todo-container {
   color: white;
   position: absolute;
